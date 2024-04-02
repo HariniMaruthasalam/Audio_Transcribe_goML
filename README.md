@@ -50,3 +50,11 @@ The Audio Transcription and Sentiment Analysis project focus on analyzing audio 
 ## Challenges
 - Faced challenges with the Lyzr API and calculating/plotting APIs, requiring extra time and effort.
 
+## Sample Output
+![WhatsApp Image 2024-04-02 at 2 46 30 PM](https://github.com/HariniMaruthasalam/Audio_Transcribe_goML/assets/114240304/e9d93eee-b2bb-41e2-a0d7-a4cb724d7e59)
+
+![WhatsApp Image 2024-04-02 at 2 46 32 PM](https://github.com/HariniMaruthasalam/Audio_Transcribe_goML/assets/114240304/b4c63af3-c118-42a0-b9a7-a317edcd9d91)
+
+![WhatsApp Image 2024-04-02 at 2 46 37 PM](https://github.com/HariniMaruthasalam/Audio_Transcribe_goML/assets/114240304/db8842dc-322b-401f-9df2-9d96f4e82923)
+
+
