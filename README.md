@@ -22,6 +22,13 @@ The Audio Transcription and Sentiment Analysis project focus on analyzing audio 
 - KPIs and sentiment scores are presented in a Streamlit web application.
 - Matplotlib is used for data visualization, including plotting KPIs and generating word clouds.
 
+##Working
+
+
+https://github.com/HariniMaruthasalam/Audio_Transcribe_goML/assets/114240304/18678635-30ae-4b6b-b43a-98f408b90183
+
+
+
 ## Technologies Used
 - AssemblyAI API for audio transcription with sentiment analysis and auto-highlighting features.
 - Transformers library for sentiment analysis using pre-trained models.
